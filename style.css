@@ -7,3 +7,37 @@
 .cizgi{
     border: .5px solid #000;
 }
+
+.ustcocuk{
+    background-image: url(./img/bba8254b-536f-488c-8bc6-274513cdb3c4.jpe);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 75vh;
+}
+.ust2cocuk{
+    background-image: url(./img/102ee826-d507-44dd-8b18-7f94222d63b0.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+    }
+
+
+.kirmizi{
+    background-image: url(./img/409ad1b6-36f8-4c38-bffe-01df74a6eba2.jpe);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 15vh;
+    margin: 15px 0;
+
+}
+
+
+.header{
+    background-color: transparent !important;
+}
+.navvbarr:hover{
+    background-color: white !important;
+}
